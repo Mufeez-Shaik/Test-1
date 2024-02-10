@@ -1,0 +1,19 @@
+initialised The Repositery Using --- git init 
+
+created a new branch using ---- git checkout -b my_branch
+
+switched to the new branch using --- git checkout branchName
+
+created few files in git initialised folder
+
+added all to the staging area using --- gid add --a/.
+
+took further the staged files to commit using ---git commit -m "Message"
+
+creted a new remote repo in github.com
+made the configuration using git remote add [URL]
+
+Push the branch to the remote repository using--- git push origin my_branch
+
+
+
